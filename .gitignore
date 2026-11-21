@@ -488,3 +488,6 @@ $RECYCLE.BIN/
 
 # Archivos temporales de Staging
 **/StagingOutput/
+
+# Archivos temporales de Staging
+**/StagingOutput/
